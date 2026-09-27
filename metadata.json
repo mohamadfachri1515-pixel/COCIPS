@@ -1,0 +1,6 @@
+{
+  "name": "Clash of Champions : IPS Arena",
+  "description": "Game kuis edukasi interaktif Ilmu Pengetahuan Sosial (IPS) bertema kompetisi esport fantasy dengan 30 kartu soal bertingkat dan leaderboard realtime.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
